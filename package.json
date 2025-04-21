@@ -1,0 +1,21 @@
+{
+  "name": "pixel-craft-co",
+  "version": "1.0.0",
+  "description": "Minimalist web and app development agency website",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "framer-motion": "^10.16.4",
+    "react-intersection-observer": "^9.5.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.4.0",
+    "sass": "^1.66.1"
+  }
+} 
